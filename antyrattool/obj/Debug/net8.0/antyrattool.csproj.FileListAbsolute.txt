@@ -1,0 +1,14 @@
+C:\Users\PsYcH\source\repos\antyrattool\antyrattool\bin\Debug\net8.0\antyrattool.exe
+C:\Users\PsYcH\source\repos\antyrattool\antyrattool\bin\Debug\net8.0\antyrattool.deps.json
+C:\Users\PsYcH\source\repos\antyrattool\antyrattool\bin\Debug\net8.0\antyrattool.runtimeconfig.json
+C:\Users\PsYcH\source\repos\antyrattool\antyrattool\bin\Debug\net8.0\antyrattool.dll
+C:\Users\PsYcH\source\repos\antyrattool\antyrattool\bin\Debug\net8.0\antyrattool.pdb
+C:\Users\PsYcH\source\repos\antyrattool\antyrattool\obj\Debug\net8.0\antyrattool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PsYcH\source\repos\antyrattool\antyrattool\obj\Debug\net8.0\antyrattool.AssemblyInfoInputs.cache
+C:\Users\PsYcH\source\repos\antyrattool\antyrattool\obj\Debug\net8.0\antyrattool.AssemblyInfo.cs
+C:\Users\PsYcH\source\repos\antyrattool\antyrattool\obj\Debug\net8.0\antyrattool.csproj.CoreCompileInputs.cache
+C:\Users\PsYcH\source\repos\antyrattool\antyrattool\obj\Debug\net8.0\antyrattool.dll
+C:\Users\PsYcH\source\repos\antyrattool\antyrattool\obj\Debug\net8.0\refint\antyrattool.dll
+C:\Users\PsYcH\source\repos\antyrattool\antyrattool\obj\Debug\net8.0\antyrattool.pdb
+C:\Users\PsYcH\source\repos\antyrattool\antyrattool\obj\Debug\net8.0\antyrattool.genruntimeconfig.cache
+C:\Users\PsYcH\source\repos\antyrattool\antyrattool\obj\Debug\net8.0\ref\antyrattool.dll
